@@ -1,0 +1,19 @@
+
+
+#form1{
+        
+min-height:520px;
+background-color: rgb(240, 245, 247);  
+margin-top: 5%;
+margin-left: 15%;
+margin-right: 15%;
+}
+
+.font{
+    font-size: 150%;
+}
+#result{
+
+    margin-left: -40px;
+}
+
